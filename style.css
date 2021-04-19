@@ -37,6 +37,9 @@ span{
     border-radius: 6px 0 0 6px;
     padding: 45px 0 0 80px;
 }
+.card .info h1{
+    margin-right: 40px;
+}
 .card .photo{
     width: 50%;
     background: url(./images/image-header-desktop.jpg);
@@ -47,7 +50,7 @@ span{
 
 .card .info .stats ul li {
     display: inline-block;
-    padding: 0 70px 20px 0;
+    padding: 0 90px 20px 0;
     margin-left: -40px;
     margin-top: 40px;
 
